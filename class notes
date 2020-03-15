@@ -1,0 +1,9 @@
+git init
+git commit
+git config --global user.email ""
+git config --global user.name  ""
+
+git remote add ""
+------------------------------
+git push -f origin master
+git pull origin master
