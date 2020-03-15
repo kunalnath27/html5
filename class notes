@@ -10,3 +10,14 @@ git pull origin master
 
 
 https://github.com/narasimhareddyprostack/Feb-9am-CR
+
+================================================
+
+git init
+git commit -m "gitexample"
+git config --global user.email  "kunalnathaec@gmail.com"
+
+git config --global user.name "kunalnath27"
+
+
+git remote add origin https://github.com/kunalnath27/html5.git
